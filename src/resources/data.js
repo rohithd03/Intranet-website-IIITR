@@ -26,6 +26,20 @@ const data = [
         "title": "Library Management System",
         "link": "http://library.intranet.iiitr.ac.in/",
         "description": "Library Management System."
+    },
+    {
+        "id": 5,
+        "imageURL": "/images/vpn.png",
+        "title": "Virtual Private Network(VPN)",
+        "link": "https://vpn.intranet.iiitr.ac.in/",
+        "description": "Connect to IIITR network to access intranet resources."
+    },
+    {
+        "id": 6,
+        "imageURL": "/images/ldap.png",
+        "title": "LDAP Password management",
+        "link": "http://ldap.intranet.iiitr.ac.in/",
+        "description": "WiFi Password management."
     }
 ]
 
